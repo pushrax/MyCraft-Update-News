@@ -6,9 +6,7 @@ layout: default
 MyCraft News
 ============
 
-Some text
+##New MyCraft launcher in beta
+###March 31, 2012
 
-A list:
-
-- List element 1
-- List element 2
+A bit of meta-news: we've created a news page for the new beta MyCraft launcher.
