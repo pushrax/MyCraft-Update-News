@@ -3,21 +3,16 @@ body {
 	font: 13px Helvetica, arial, freesans, clean, sans-serif;
 	color: #222222;
 	margin: 0;
-	padding: 0;
+	padding: 15px 15px 25px;
 }
 #leftbar {
-	width: 100%;
-	padding-top: 25px;
-	padding-left: 25px;
-	padding-right: 220px;
+	position: relative;
+	float: left;
 }
 #rightbar {
-	position: fixed;
-	top: 0px;
-	right: 0px;
+	position: relative;
+	float: right;
 	width: 200px;
-	height: 100%;
-	background-color: #e0e0e0;
 }
 h1 {
 	color: #000000;
