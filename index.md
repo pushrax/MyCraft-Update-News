@@ -7,6 +7,6 @@ MyCraft News
 ============
 
 ##New MyCraft launcher in beta
-###March 31, 2012
+###&raquo; March 31, 2012
 
 A bit of meta-news: we've created a news page for the new beta MyCraft launcher.
