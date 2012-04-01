@@ -1,9 +1,17 @@
 body {
 	background-color: #f0f0f0;
 	font: 13px Helvetica, arial, freesans, clean, sans-serif;
+	color: #222222;
+}
+h1 {
+	color: #000000;
+}
+h2 {
+	margin-bottom: 0;
+	padding-bottom: 0;
 }
 h3 {
-	margin-top: 0px;
-	padding-top: 0px;
+	margin-top: 0;
+	padding-top: 0;
 	font-size: 1em;
 }
